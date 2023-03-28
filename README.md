@@ -32,3 +32,4 @@ if p has a right child rc then
   inorder(rc)
 ```
 
+Finally, edit the Main.py file to test all these methods on the existing tree.
