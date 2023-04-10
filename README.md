@@ -1,6 +1,6 @@
 # BinaryTree
 
-Clone the Github template and add the four traversal methods to the LinkedBinaryTree.
+Clone the Github template and add the three traversal methods to the LinkedBinaryTree.
 All 4 traversal methods should be public and accessible through the Main file.
 
 ```preorder()```: A method to preorder traverse the binary tree
